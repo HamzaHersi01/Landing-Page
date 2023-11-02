@@ -148,3 +148,10 @@ flex-direction: column;
    text-align: center;
    font-size: 19px;
 }
+
+.bottom-middle-section{
+   display: flex;
+   flex-direction: column;
+   background:#E5E7EB;
+   
+}
